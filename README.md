@@ -1,5 +1,5 @@
 # n00bcon
-Various files for the n00bcon webpage(s). Index.html in root is simply current n00bcon.com. Folders contain older webpages.
+Various files for the n00bcon webpage(s). index.html in root is current n00bcon.com. Folders contain subpages as well as older webpages.
 A few notes / apologies:
 
  * A lot of stuff, mainly images and css, are duplicated for each year, as this was originally separate projects. This could be a cleanup job ;)
