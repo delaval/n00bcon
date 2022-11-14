@@ -1,0 +1,510 @@
+From: delaval@gmail.com ("Mg" de Laval)
+Newsgroups: Standalone document, affliated with rec.games.board
+Subject: MTG: Wizards' Tournament II
+Ddate: 58th day of Confusion in the YOLD 3184
+NNTP-Posting-Host: ftpcluster.loopia.se via n00bcon.com
+Posting-Software: gFTP 2.0.19
+Organization: Team 0-2 Drop. Train People. Oslo Crew. Take your pick.
+Lines: 485
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!       THIS DOCUMENT IS UNDER CONSTRUCTION       !
+! LAST UPDATE: 21st day of Chaos in the YOLD 3185 !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+                       +++++++++++++++++++++++++++++++
+                       +   /\/\   __ _  __ _(_) ___  +
+                       +  /    \ / _` |/ _` | |/ __| +
+                       + / /\/\ \ (_| | (_| | | (__  +
+                       + \/    \/\__,_|\__, |_|\___| +
+                       +  The Gathering|___/         +
+                       +++++++++++++++++++++++++++++++
+
+                         THE WIZARDS' TOURNAMENT II
+                             GOTHENBURG, SWEDEN
+
+
+"Worzel soon found that gathering the proper mana for her protective spells was
+going to be difficult. She needed the mana of the countryside, and disturbances
+in the ether were preventing her from making the necessary psychic bonds to any
+of those lands. Just having the knowledge to protect yourself isn't enough, she
+thought. Well, let's see if I can't stall him with my friends of the forest in
+the meantime."
+
+
+#####################
+#  1. INTRODUCTION  #
+#####################
+
+
+You are a planeswalker. A powerful wizard with the ability to craft the magic
+of the lands. And now is the time to test your strenght. Will the white wizard
+of the plains stand up to the dreaded quagmires of black sorcery? Can the 
+cunning water mages of the islands defeat the Goblins in the fiery mountains?
+Only one wizard will be left standing after the THE WIZARDS' TOURNAMENT. Chose 
+your arcane weapons well.
+
+TABLE OF CONTENTS
+1. Introduction
+2. Tournament information
+3. Deck Construction rules
+4. Floor rules
+5. Game rule clarifications
+6. Specific Card Clarifications
+
+In addition to the information provided here, keep your eyes open for the first
+issue of THE PRODIGAL SORCERER magazine for additional arcane knowledge!
+
+
+###############################
+#  2. TOURNAMENT INFORMATION  #
+###############################
+
+             ,;~;,
+                /\_
+               (  /
+               (()      //)
+               | \\  ,,;;'\
+           __ _(  )m=(((((((((((((================--------
+         /'  ' '()/~' '.(, |
+      ,;(      )||     |  ~
+     ,;' \    /-(.;,   )
+          ) /       ) /
+         //         ||
+        )_\         )_\
+
+WHAT: 
+THE WIZARDS' TOURNAMENT is a recurring competition in the Deckmaster Magic: The
+Gathering game, and has grown to the largest traditional Magic tournament in
+the world. With over 300 different beautifully illustrated cards to chose from
+and a strategic depth unlike any card game, Magic has smitten a growing legion
+of savy spell slingers across the globe.
+
+WHY: 
+In addition to glory, the master wizard will recieve a mysterious artifact of
+Dominia. Beautifully hand crafted, this unique piece of Magic lore will surely
+be a piece of pride in any collection.
+
+WHEN: 
+April 18. Preliminary starting time 16:00.
+
+WHERE: 
+THE WIZARDS' TOURNAMENT II will be hosted at Rotary Pub in Gothenburg. Any 
+(unlikely) change in venue will be disclosed well in advance of the THE 
+WIZARDS' TOURNAMENT II.
+
+WHO: 
+THE WIZARDS' TOURNAMENT II is open to all skilled invokers who want to test
+their decks against the best. It is assumed that all participants are well
+versed in the rules of Magic, and have read this document in full to have a
+proper understanding of Magic tournament rules.
+
+
+
+
+################################
+#  3. DECK CONSTRUCTION RULES  #
+################################
+
+      _.--._  _.--._
+,-=.-":;:;:;\':;:;:;"-._
+\\\:;:;:;:;:;\:;:;:;:;:;\
+ \\\:;:;:;:;:;\:;:;:;:;:;\
+  \\\:;:;:;:;:;\:;:;:;:;:;\
+   \\\:;:;:;:;:;\:;::;:;:;:\
+    \\\;:;::;:;:;\:;:;:;::;:\
+     \\\;;:;:_:--:\:_:--:_;:;\ 
+      \\\_.-"      :      "-._\
+       \`_..--""--.;.--""--.._=>
+        "
+
+3.1. 
+As per floor rule 4.4, "fake ante" will be enforced in the tournament. Hence,
+any cards that state "Remove this card from your deck before playing if you are
+not playing for ante" must be removed from the deck before the tournament.
+
+3.2.
+A second batch of Magic: The Gathering has more recently been released by
+Deckmaster. This printing has far sharper edges, and can hence easily be
+distinguised from cards in the original printing. If anyone has gotten their
+hands on cards from this batch, these cards ARE NOT ALLOWED to be played.
+Only cards with the original corners will be allowed in this tournament to
+avoid any chance of eagle-eyed players getting an unfair advantage.
+
+3.3.
+Some collectors have expressed concern over detoriating conditions on their
+cards after multiple duels. To adress this concern, players are allowed to 
+protect their cards using baseball card sleeves on all the cards in their deck 
+before shuffling up. If a player opts to use sleeves, it is highly recommended
+to use the "penny sleeve" version, as the top loader sleeve greatly inhibits 
+shuffling the deck.
+
+
+
+
+####################
+#  4. FLOOR RULES  #
+####################
+
+
+           /|||                     /\                     |||\
+          |||                      |  |                      |||
+           \||___--_______________|    |_______________--___||/
+            "|                                              |"
+            /|\---______________--|    |--______________---/|\
+           / | \                  |    |                  / | \
+          /  |  \                 |    |                 /  |  \
+         /   |   \                |    |                /   |   \
+        /    |    \               \    /               /    |    \
+       /     |     \               \  /               /     |     \
+      /      |      \               ||               /      |      \
+     /       |       \             /  \             /       |       \
+    /        |        \           |    |           /        |        \
+ -------------------------        |    |       ---------------------------
+  \_____________________/        .|    |.        \______________________/
+                                 |      |
+                                 |      |
+                                  \    /
+                                   |  | 
+                                   |  |
+                                __|    |__
+                   ___----------          ----------___
+                  |____________________________________|
+
+4.1. 
+This tournament will use a SWISS system to determine the players proceeding to
+the elimination rounds. The swiss portion pits players with the same winning
+record against each other until a group qualifying for the ladder bracket has
+been determined. The number of rounds in the swiss portion will be log_2(X)+1
+rounded down to the nearest whole number, where X is the number of players 
+(e.g. log_2(13)=3.7, +1 is 4.7, which rounds to 4, so 13 players will play 4
+rounds, 16 players will of course play 5, etc). The elimiation rounds will then
+use a standard ladder bracket with an even factor of two players (4, 8, etc) 
+using single elemination rules.
+
+
+4.2. 
+The tournament will be presided over by a Referee. The Referee may be required
+to interpret rules, to terminate an excessively long match, to interpret a
+Declaration of Forfeiture, or make any other adjudication as necessary during
+the tournament. The Referee is also responsible for maintaining the swiss and
+ladder charts, and only the Referee is permitted to write on the chart (e.g.
+listing advancing players on the bracket).
+
+
+4.3.  
+A duel is one complete game of Magic. A match is defined as the best two out of
+three duels for standard rounds, and the best three out of five duels for the
+final round of the tournament. A player may get 1 point in the tournament swiss
+portion after successfully winning one match, and reporting this victory to the
+Referee. In the elimination rounds, a player that successfully wins a match is
+advanced one step in the ladder bracket.
+
+
+4.4.  
+Players must use the same deck they begin the tournament with throughout the 
+duration of the tournament. To avoid any deck metamorphosis during the course
+tournament, "fake ante" will be enforced. Players will remove a "fake ante"
+from their decks prior to dueling, using the same process as for real ante.
+Additionally any cards that require the either player to pay Ante also have to
+be removed from the decks before playing.  "Fake ante" is not claimed by the
+winner; instead it is returned to the owner's deck at the conclusion of the
+duel. Players may ante additional cards or items from outside their decks in a
+"real ante" providing that both participants in the match give their consent.
+
+
+4.5.
+Players may not have any outside assistance (i.e. coaching) during a match.
+Players in violation will receive one warning; any further infractions will be 
+interpreted by the Referee as a Declaration of Forfeiture.
+
+
+4.6.
+Failure to adhere to the above rules, or the general rules of Magic, or any
+indication of attempting to recieve a victory by any means other than playing a
+game of Magic, will be interpreted by the Referee as a Declaration of 
+Forfeiture.
+
+
+#################################
+#  5. GAME RULE CLARIFICATIONS  #
+#################################
+
+                  .    |    ,
+                   \ _---_ /
+                -_ .'     `. _-
+               __ :  .---.  : __
+                  :  \   /  :
+                -" `. | | .' "-
+                   / |`-'| \
+                  '  ]"-_[  `
+                     ]"-_[
+                      "*"
+
+5.1. Forced tapping
+Cards like Twiddle and the Ice Manipulator lets you tap any card on either
+territory. These cards will simply "shut down" the card tapped, prohibiting use
+until untapped. Tapping a card you don't control wont generate an effect at any
+time.
+
+Example: 
+You use Ice Manipulator to tap Elves controlled by opponent during his or her
+attack exchange. This does not make the Elves attack (nor generate mana for 
+either player), but rather shuts them down until it's owners next untap cycle.
+This means that the Elves can't attack, block, or generate mana until untapped.
+
+
+5.2 Enchantments
+Enchantments can broadly be divided into two subtypes: local enchantments and
+global enchantments. Local enchantments can be placed on any card in play that
+shares a type with the enchantment. Global enchantments are the cards that 
+simply read "Enchantment" on the type line, and unlike local enchantments they
+can only be placed on your side. If a global enchantment affects only one 
+player, you have to chose yourself unless it explicitly states otherwise.
+
+Example 1: 
+Flight is a local enchantment with "Enchant Creature" that turns a creature 
+into a flying creature. You may place Flight on any summon or artifact creature
+in play, regardless of owner. You are still considered to own Flight even if 
+you place it on an opposing creature.
+
+Example 2: 
+Crusade is a Global Enchantment giving all white creatures a +1/+1 bonus. As
+this doesn't say anything about players, this affects all white creature in 
+play, regardless of owner. You are still considered to be the sole owner of 
+Crusade even if it affects creatures on both sides.
+
+Example 3: 
+Lich is a global Enchantment that turns a player into a zombie that discards
+cards in play when suffering damage. If you cast Lich, you have to chose it to
+affect yourself, you are not allowed to play it on the opponent's territory to
+turn him or her into a zombie. Lich may still be benefitial to caster as zombie
+is immune to normal life loss and may generate additional card draws.
+
+
+5.3 Upkeep payments
+Some cards require you to pay an upkeep cost. Upkeep costs containing colored 
+mana is usually written using capital letters representing the colors of mana.
+Any card requiering upkeep maintenance cannot be used in a turn until after 
+the upkeep cost has been satisfied.
+
+Example:
+Demonic Hordes has the ability to tap to destroy one land as a fast effect. The
+Demons also require a payment of "BBB" each turn lest they turn on their 
+summoner. "BBB" means "Three black mana from you mana pool", B being shorthand 
+for Black. You cannot use the fast effect of the Demons before you have payed
+tribute with black mana each turn.
+
+
+5.4 Special costs
+In the card text, a mana symbol preceding an effect should be read as "For each
+(mana) spent...". You can spend as many mana as you want in this way, unless 
+the special cost includes tapping the card. Remeber that mana enhanced power or
+thoughness on creatures only last for the remainder of the turn.
+
+Example 1:
+You can pay two generic mana to Circle of Protection: Blue to prevent the
+damage from two different blue creatures during a single a attack.
+
+Example 2:
+Celestial Prism is a mono artifact that reads "2: Provides 1 mana of any color.
+This use can be played as an interrupt". You may not pay four generic mana to
+provide two mana of any color, as the Prism is a mono artifact and taps as a
+part of use.
+
+
+5.5 Timing
+Timing spells is usually pretty easy, but occasionally multiple fast effects
+will try to affect a card at once. Most times, you just apply all the effects
+at once and then look at the state of card affected. Some times it is however
+impossible to for the effects to happen at the same time. If that happens, the
+player who created the last effect decides in what order the effects are
+applied. If one or more of the effects is played with the speed of an 
+interrupt, the other effects will be reviewed after all interrups have done
+their job. Whenever you play an interrupt, rewind all other spells and fast
+effects currently being played, let the interrupt resolve, and the review all
+the other effects being played (if they are still applicable).
+
+An interrupt may be responded to with another interrupt. If so, the first 
+interrupt won't happen until the last interrupt announced has happened.
+
+Example 1:
+You cast Giant Growth (+3/+3 this turn) on your Grizzly Bears. Opponent casts
+Lightning Bolt on Bears as a fast effect. Bolt and Growth happen at the same 
+time, so Bears survive as a 5/5 with three damage marked on it until end of 
+turn.
+
+Example 2:
+Opponent cast Terror on your Grizzly Bears to finally kill it. You respond by
+casting Unsummon to return it to hand. These things can't both happen at the
+same time (these are no Schroedinger Bears; they must be either dead or in hand),
+and you get to chose where the Bears end up as you announced Unsummon after
+opponent announced Terror.
+
+Example 3:
+You announce Grizzly Bears from your hand. Opponent interrupts with 
+Counterspell. You interrupt their interrupt with a Counterspell of your own.
+Now your interrupt happen first and remove their interrupt. When it is time to
+evaluate their interrupt, it is already gone, and so we go back to normal
+effect resolution. No one has any more interrupts, and Grizzly Bears comes back
+to your territory.
+
+Example 4:
+Opponent want to deal two damage to that pesky Grizzly Bears using their Orcish
+Artillery's tap abilty. You interrupt by casting Blue Elemental Blast on the 
+Orcs. As the Elemental Blast is an interrupt, the Orcs will die before they get
+the chance to shoot the Bears (or the opponent) and the effect will fizzle. The
+Bears still live!
+
+
+
+
+###################################
+# 6. SPECIFIC CARD CLARIFICATIONS #
+###################################
+
+
+              o
+                   O       /`-.__
+                          /  \Â·'^|
+             o           T    l  *
+                        _|-..-|_
+                 O    (^ '----' `)
+                       `\-....-/^
+             O       o  ) "/ " (
+                       _( (-)  )_
+                   O  /\ )    (  /\
+                     /  \(    ) |  \
+                 o  o    \)  ( /    \
+                   /     |(  )|      \
+                  /    o \ \( /       \
+            __.--'   O    \_ /   .._   \
+           //|)\      ,   (_)   /(((\^)'\
+              |       | O         )  `  |
+              |      / o___      /      /
+             /  _.-''^^__O_^^''-._     /
+           .'  /  -''^^    ^^''-  \--'^
+         .'   .`.  `'''----'''^  .`. \
+       .'    /   `'--..____..--'^   \ \
+      /  _.-/                        \ \
+  .::'_/^   |                        |  `.
+         .-'|                        |    `-.
+   _.--'`   \                        /       `-.
+  /          \                      /           `-._
+  `'---..__   `.                  .Â´_.._   __       \
+           ``'''`.              .'      `'^  `''---'^
+                  `-..______..-'
+
+
+***************
+* 6.1 Balance *
+***************
+Creatures with protection from white are not affected by Balances destruction
+abilities, but you still have to count them when assessing the fairness of the
+game state.
+
+Example: Opponent has one creature in play, you have a Sengir Vampire and a
+Black Knight (immune to white magic). This still counts as you having one more
+creature than the opponent, and you'll have to discard the Vampire. If
+opponent has zero creatures in play, you of course also have to discard the
+Vampire, but still get to keep the Black Knight.
+
+
+***************
+* 6.2 Channel *
+***************
+You will permanently lose any life converted to mana; the "is not considered 
+damage" text simply clarifies that you can't avoid the payment of life using a
+Circle of Protection or similar to prevent it. Your life total will still 
+change. You cannot pay more life than you currently possess.
+
+
+*********************
+* 6.2 Control Magic *
+*********************
+**UPDATE** This card has recieved official Deckmaster clarification. The
+subject in the last setting ("If destroyed, target creature is put in its
+owner's graveyard") refers to the CREATURE, not the Control Magic enchantment
+itself. If Control Magic is discarded while the creature survives, creature
+will hence not die but return to owner. If Control Magic is discarded during an
+attack, creature is no longer considered attacking.
+
+
+**********************
+* 6.3 Cyclopean Tomb *
+**********************
+Cyclopean Tomb have official Deckmaster errata. It is to be played as having a
+mana cost of four generic mana, with no constraint on playing lands the turn
+you play it.
+
+
+**************************
+* 6.4 Disrupting Scepter *
+**************************
+**UPDATE** This card has recieved official Deckmaster clarification. Only cards
+from hand are to be discarded to the Scepter. If opponent has no cards in hand,
+Scepter has no effect.
+
+
+************
+* 6.5 Fork *
+************
+Fork looks easy to understand, but occasionally it will create some timing
+issues if the opponent has fast effects available. Rather than simply
+considering Fork as doubbling the effect of an instant or sorcery, it should be
+seen as a sort of Clone for spells. The Fork becomes a additional instance of 
+the card played. The only difference between playing two Unsummon spells and 
+playing one Unsummon and Forking it is that the second Unsummon will be red and
+is played with the speed of an Interrupt.
+
+
+*******************
+* 6.6 Goblin King *
+*******************
+Goblin King is considered to have two affiliations, he is both a 'Goblin' and
+a 'King'. As one of the Goblins, he is affected by cards like Goblin Balloon
+Brigade and (perhaps most significantly) himself.
+
+
+************************
+* 6.7 Illusionary Mask *
+************************
+Illusionary Mask can create som tricky situations for the opponent. The mask
+hides the path to the key. If the mask makes the opponent make an illegal play
+or an illegal block, the spell or block will fizzle. A spell that fizzles will
+be placed in owner's graveyard. At end of game, you have to show what cards you
+hid under the mask to verify that you didn't make illegal plays.
+
+Example: You cast Juggernaut (a 5/3 Artifact Creature for (4) that must attack
+each turn) paying (2)(U)(U)(R) into the mask to hide what it is. Opponent cast
+Spell Blast with X=5, trying to counter it. As Juggernaut in fact has total 
+mana cost 4, Spell Blast will fizzle and be placed in opponents graveyard 
+without effect. If opponent then tries to destroy the hidden Juggernaut with 
+Terror, Terror will also fizzle as it can't target Artifact Creatures. If you
+forget to attack with Juggernaut during your turn (when opponent still can't
+see it and have no chance of reminding you), the Referee will interpret that as
+a Declaration of Forfiture.
+
+
+***************************
+* 6.8 Red Elemental Blast * 
+***************************
+This card was accidentally printed with the wrong type. It should be played as
+an interrupt rather than an instant.
+
+
+****************
+* 6.9 Unsummon *
+****************
+Unsummon should be read "Return creature to owner's hand, enchantments on
+creature are discarded. Unsummon cannot be played during the damage-dealing
+phase of an attack."
+
+
+**************
+* 6.10 Wards *
+**************
+Protection granted by wards doesn't affect the wards themselves. E.g. if a
+creature in play is enchanted by White Ward, the protection from white magic
+doesn't remove the ward, neither is a Blue Ward turned blue by e.g. Thoughtlace
+discarded from play.
